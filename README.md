@@ -1,1 +1,1 @@
-This is the core driver and header files from the project. This was written in the STMCubeIDE and implemented on a STM32F429 board.
+The zip file contains all contents on this project. This was written in the STMCubeIDE and implemented on a STM32F429 board. The core folder provides easy access to examine the driver files in your browser.
